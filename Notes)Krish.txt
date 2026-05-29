@@ -1,0 +1,19 @@
+Install UV from google in IDE
+
+uv init
+creating environment
+uv venv
+activate the environment
+.venv\Scripts\activate
+create requirements.txt
+uv add -r requirements.txt
+Create api keys for groq,openai,google
+uv add ipykernel
+
+
+
+Complete Agentic AI Course In 10 Hours- Langchain, Langgraph, RAG,Vectorless RAG, Guardrails,Evals   youtube
+https://www.youtube.com/watch?v=rV3HJ4LEZ7k
+
+
+
